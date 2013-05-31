@@ -2,6 +2,10 @@ name.com 域名优惠信息(2013年6月更新)
 =============================================
 
 
+最新name.com 优惠信息 `name_aff`_.
+
+.. _name_aff:  http://ref.name.com/aff_c?offer_id=3&aff_id=5681&random_url=1
+
 ssss
 a
 
